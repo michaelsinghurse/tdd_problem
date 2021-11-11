@@ -1,0 +1,22 @@
+{
+  "name": "tdd_problem",
+  "version": "1.0.0",
+  "description": "We need to write a function that converts a URL query string into a key-value  data structure (dict/hashmap/object).",
+  "main": "queryString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsinghurse/tdd_problem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelsinghurse/tdd_problem/issues"
+  },
+  "homepage": "https://github.com/michaelsinghurse/tdd_problem#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
