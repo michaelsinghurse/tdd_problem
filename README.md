@@ -35,8 +35,8 @@ your method should return:
 {
   'user': {
     'name': {
-      'firstname': 'Bob',
-      'lastname': 'Smith'
+      'firstname': 'John',
+      'lastname': 'Doe'
     },
     'id': '123'
   }
